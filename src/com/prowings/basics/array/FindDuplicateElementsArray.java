@@ -2,6 +2,9 @@ package com.prowings.basics.array;
 
 import java.util.Arrays;
 
+/**This class finds duplicate array elements.
+ * 
+ */
 public class FindDuplicateElementsArray {
 
 	public static void main(String[] args) {
